@@ -1,0 +1,11 @@
+#cookie {
+  position: absolute;
+  left: 200px;
+  bottom: 100px;
+}
+#counter {
+  position: absolute;
+  left:400px;
+  top: 25px;
+  font-size: 25px;
+}
